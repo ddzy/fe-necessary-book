@@ -1,6 +1,6 @@
 # fe-necessary-book
 
-`feer`必读的精品pdf集合
+前端开发者必读的精品pdf集合
 
 ## 前置
 
@@ -8,23 +8,33 @@
 
 ## 目录
 
-### a. HTTP
+### a. healthy
 
-| Name         | Link                                           |
-| ------------ | ---------------------------------------------- |
+| Name                                | Link                                                                           |
+| ----------------------------------- | ------------------------------------------------------------------------------ |
+| 超负荷的大脑-信息过载与工作记忆极限 | [Download](./packages/healthy/超负荷的大脑-信息过载与工作记忆的极限/README.md) |
+| 临床诊疗指南-眼科学                 | [Download](./packages/healthy/临床诊疗指南-眼科学/README.md)                   |
+| 颈椎康复指南                        | [Download](./packages/healthy/颈椎康复指南/README.md)                          |
+| 心理强大之路                        | [Download](./packages/healthy/心理强大之路/README.md)                          |
+| 活着                                | [Download](./packages/healthy/活着/README.md)                                  |
+
+### b. HTTP
+
+| Name         | Link                                               |
+| ------------ | -------------------------------------------------- |
 | HTTP权威指南 | [Download](./packages/http/HTTP权威指南/README.md) |
 | 图解HTTP     | [Download](./packages/http/图解HTTP/README.md)     |
 
-### b. 计算机原理
+### c. 计算机原理
 
-| Name                               | Link                                                                    |
-| ---------------------------------- | ----------------------------------------------------------------------- |
+| Name                               | Link                                                                        |
+| ---------------------------------- | --------------------------------------------------------------------------- |
 | 计算机的本质: 深入剖析程序和计算机 | [Download](./packages/computer/计算机的本质_深入剖析程序和计算机/README.md) |
 
-### c. JS
+### d. JS
 
-| Name                         | Link                                                         |
-| ---------------------------- | ------------------------------------------------------------ |
+| Name                         | Link                                                             |
+| ---------------------------- | ---------------------------------------------------------------- |
 | JavaScript高级程序设计第3版  | [Download](./packages/js/JavaScript高级程序设计第3版/README.md)  |
 | JavaScript权威指南第6版      | [Download](./packages/js/JavaScript权威指南第6版/README.md)      |
 | 你不知道的Javascript - (上)  | [Download](./packages/js/你不知道的Javascript系列/README.md)     |
@@ -38,36 +48,36 @@
 | JavaScript设计模式与开发实践 | [Download](./packages/js/JavaScript设计模式与开发实践/README.md) |
 | JAVASCRIPT语言精髓与编程实践 | [Download](./packages/js/JAVASCRIPT语言精髓与编程实践/README.md) |
 
-### d. 第三方JS类库
+### e. 第三方JS类库
 
-| Name         | Link                                         |
-| ------------ | -------------------------------------------- |
+| Name         | Link                                             |
+| ------------ | ------------------------------------------------ |
 | 深入浅出Rxjs | [Download](./packages/js/深入浅出Rxjs/README.md) |
 
-### e. CSS
+### f. CSS
 
-| Name | Link |
-| --- | --- |
-| CSS揭秘 | [Download](./packages/css/CSS揭秘/README.md) |
+| Name         | Link                                              |
+| ------------ | ------------------------------------------------- |
+| CSS揭秘      | [Download](./packages/css/CSS揭秘/README.md)      |
 | CSS3权威指南 | [Download](./packages/css/CSS3权威指南/README.md) |
 
-### f. Node
-
-| Name            | Link                                              |
-| --------------- | ------------------------------------------------- |
-| Node.js开发指南 | [Download](./packages/node/Node.js开发指南/README.md) |
-| Node.js实战     | [Download](./packages/node/Node.js实战/README.md)     |
-
-### g. Database
+### g. Node
 
 | Name            | Link                                                  |
 | --------------- | ----------------------------------------------------- |
+| Node.js开发指南 | [Download](./packages/node/Node.js开发指南/README.md) |
+| Node.js实战     | [Download](./packages/node/Node.js实战/README.md)     |
+
+### h. Database
+
+| Name            | Link                                                      |
+| --------------- | --------------------------------------------------------- |
 | 深入学习MongoDB | [Download](./packages/database/深入学习MongoDB/README.md) |
 
-### h. Others
+### i. Others
 
-| Name | Link |
-| --- | --- |
+| Name                           | Link                                                                   |
+| ------------------------------ | ---------------------------------------------------------------------- |
 | 一个全栈增长工程师的练手项目集 | [Download](./packages/others/一个全栈增长工程师的练手项目集/README.md) |
 
 ## 如何下载?
