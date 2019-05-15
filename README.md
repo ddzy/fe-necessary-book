@@ -67,6 +67,7 @@
 | --------------- | ----------------------------------------------------- |
 | Node.js开发指南 | [Download](./packages/node/Node.js开发指南/README.md) |
 | Node.js实战     | [Download](./packages/node/Node.js实战/README.md)     |
+| 一个全栈增长工程师的练手项目集 | [Download](./packages/node/一个全栈增长工程师的练手项目集/README.md) |
 
 ### h. Database
 
@@ -74,11 +75,11 @@
 | --------------- | --------------------------------------------------------- |
 | 深入学习MongoDB | [Download](./packages/database/深入学习MongoDB/README.md) |
 
-### i. Others
+### i. tools
 
 | Name                           | Link                                                                   |
 | ------------------------------ | ---------------------------------------------------------------------- |
-| 一个全栈增长工程师的练手项目集 | [Download](./packages/others/一个全栈增长工程师的练手项目集/README.md) |
+| Kindle | [Download](./software/kindle/README.md) |
 
 ## 如何下载?
 
