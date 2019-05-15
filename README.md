@@ -83,3 +83,7 @@
 ## 如何下载?
 
 ![如何下载](./static/images/how_to_install.png)
+
+## LICENSE
+
+@see: [MIT](./LICENSE)
