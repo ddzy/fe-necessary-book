@@ -85,6 +85,10 @@
 
 ![如何下载](./static/images/how_to_install.png)
 
+## CHANGELOG
+
+@see: [CHANGELOG.md](./CHANGELOG.md)
+
 ## LICENSE
 
 @see: [MIT](./LICENSE)
