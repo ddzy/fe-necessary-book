@@ -1,6 +1,6 @@
 # fe-necessary-book
 
-前端开发者必读的精品pdf集合
+前端开发者必读的精品pdf集合(`小声逼逼: 附精品开发工具`)
 
 ## 前置
 
@@ -78,11 +78,12 @@
 | --------------- | ----------------------------------------------- |
 | 深入学习MongoDB | [Download](./packages/database/深入学习MongoDB) |
 
-### i. tools
+### i. Software
 
-| Name   | Link                          |
-| ------ | ----------------------------- |
-| Kindle | [Download](./software/kindle) |
+| Name    | Description                    | Link                          |
+| ------- | ------------------------------ | ----------------------------- |
+| Kindle  | Win10下绝佳的PDF阅读器         | [Download](./software/kindle) |
+| VS Code | 四种不同类型的vscode(`已绝版`) | [Download](./software/vscode) |
 
 ## 如何下载?
 
