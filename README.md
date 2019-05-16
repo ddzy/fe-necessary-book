@@ -18,6 +18,7 @@
 | 临床诊疗指南-眼科学                 | [Download](./packages/healthy/临床诊疗指南-眼科学)                   |
 | 防脱发指南                          | [Download](./packages/healthy/防脱发指南)                            |
 | 颈椎康复指南                        | [Download](./packages/healthy/颈椎康复指南)                          |
+| 啤酒肚科学减脂                      | [Download](./packages/healthy/啤酒肚科学减脂)                        |
 | 心理强大之路                        | [Download](./packages/healthy/心理强大之路)                          |
 | 活着                                | [Download](./packages/healthy/活着)                                  |
 
