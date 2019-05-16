@@ -22,6 +22,12 @@ VSCode其实是有`>=4`个版本的:
 | vscode-exploration | 探索版, 较早的内部版本, 目前我正在使用中~, **已绝版!!!** |
 | vscodium           | 最近新出的一款, 外观一毛一样                   |
 
+## 图例
+
+四种VS Code展示:
+
+![四种VScode](./images/vscode_all_types.png)
+
 ## 其它
 
-`star`一下本项目, 鼓励一下吧~
+[star](https://github.com/ddzy/fe-necessary-book)一下本项目, 鼓励一下吧~
