@@ -7,3 +7,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 #### Added
 
 - Initial release
+
+## [2019-5-16]
+
+#### Added
+
+- 新增`程序员防脱发攻略`
