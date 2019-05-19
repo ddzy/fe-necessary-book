@@ -15,3 +15,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 - 新增`程序员防脱发攻略`
 - 新增`software/vscode`
 - 为每个`software`添加`Description`和`图例展示`
+
+## [2019-5-19]
+
+#### Added
+
+- 新增`software/centBrowser`
+- 新增`software/macType`
