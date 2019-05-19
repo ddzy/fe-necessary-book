@@ -1,6 +1,6 @@
 # fe-necessary-book
 
-前端开发者必读的精品pdf集合(`小声逼逼: 附精品开发工具`)
+前端开发者必读的精品pdf集合(小声逼逼: 附精品[开发工具](#i-software))
 
 ## 前置
 
@@ -81,10 +81,12 @@
 
 ### i. Software
 
-| Name    | Description                    | Link                          |
-| ------- | ------------------------------ | ----------------------------- |
-| Kindle  | Win10下绝佳的PDF阅读器         | [Download](./software/kindle) |
-| VS Code | 四种不同类型的vscode(`已绝版`) | [Download](./software/vscode) |
+| Name        | Description                                                  | Link                               |
+| ----------- | ------------------------------------------------------------ | ---------------------------------- |
+| Kindle      | Win10下绝佳的PDF阅读器                                       | [Download](./software/kindle)      |
+| VS Code     | 四种不同类型的vscode(`已绝版`)                               | [Download](./software/vscode)      |
+| CentBrowser | Win10下Chrome的完美替代品, `内置手势`和支持`关闭DirectWrite` | [Download](./software/centBrowser) |
+| MacType     | 字体渲染器, 让你的`Win`具有和`Mac`聘美的字体显示效果         | [Download](./software/macType)     |
 
 ## 如何下载?
 
