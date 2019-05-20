@@ -22,3 +22,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - 新增`software/centBrowser`
 - 新增`software/macType`
+
+## [2019-5-20]
+
+#### Added
+
+- 新增`healthy/防脱发指南.pdf`
+- 新增`healthy/啤酒肚科学减脂.pdf`
