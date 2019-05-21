@@ -87,6 +87,7 @@
 | VS Code     | 四种不同类型的vscode(`已绝版`)                               | [Download](./software/vscode)      |
 | CentBrowser | Win10下Chrome的完美替代品, `内置手势`和支持`关闭DirectWrite` | [Download](./software/centBrowser) |
 | MacType     | 字体渲染器, 让你的`Win`具有和`Mac`聘美的字体显示效果         | [Download](./software/macType)     |
+| Microsoft To-Do | 巨硬出品的简约风`Todo`管理软件, `Win10`、`iPhone`、`安卓`无缝同步, 享受被计划支配的感觉吧 | [Download](./software/microsoftToDo) |
 
 ## 如何下载?
 
