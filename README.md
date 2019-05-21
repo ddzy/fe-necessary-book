@@ -6,7 +6,7 @@
 
 > 书不在多, 读了才灵
 
-些许资源以链接形式给出, pdf均为网上搜集而来, 如果侵犯到作者的利益, 请联系我删除(`WeChat: dzy13538391627`).
+些许资源以链接形式给出, **pdf**大多数为网上搜集而来, 少许部分为自行创作, 如果侵犯到作者的利益, 请联系我删除(`WeChat: dzy13538391627`).
 
 ## 目录
 
@@ -14,6 +14,7 @@
 
 | Name                                | Link                                                                 |
 | ----------------------------------- | -------------------------------------------------------------------- |
+| 码农脱单秘笈                        | [Download](./packages/healthy/脱单秘笈)                              |
 | 超负荷的大脑-信息过载与工作记忆极限 | [Download](./packages/healthy/超负荷的大脑-信息过载与工作记忆的极限) |
 | 临床诊疗指南-眼科学                 | [Download](./packages/healthy/临床诊疗指南-眼科学)                   |
 | 防脱发指南                          | [Download](./packages/healthy/防脱发指南)                            |
@@ -81,12 +82,13 @@
 
 ### i. Software
 
-| Name        | Description                                                  | Link                               |
-| ----------- | ------------------------------------------------------------ | ---------------------------------- |
-| Kindle      | Win10下绝佳的PDF阅读器                                       | [Download](./software/kindle)      |
-| VS Code     | 四种不同类型的vscode(`已绝版`)                               | [Download](./software/vscode)      |
-| CentBrowser | Win10下Chrome的完美替代品, `内置手势`和支持`关闭DirectWrite` | [Download](./software/centBrowser) |
-| MacType     | 字体渲染器, 让你的`Win`具有和`Mac`聘美的字体显示效果         | [Download](./software/macType)     |
+| Name            | Description                                                                               | Link                                 |
+| --------------- | ----------------------------------------------------------------------------------------- | ------------------------------------ |
+| Kindle          | Win10下绝佳的PDF阅读器                                                                    | [Download](./software/kindle)        |
+| VS Code         | 四种不同类型的vscode(`已绝版`)                                                            | [Download](./software/vscode)        |
+| CentBrowser     | Win10下Chrome的完美替代品, `内置手势`和支持`关闭DirectWrite`                              | [Download](./software/centBrowser)   |
+| MacType         | 字体渲染器, 让你的`Win`具有和`Mac`聘美的字体显示效果                                      | [Download](./software/macType)       |
+| Microsoft To-Do | 巨硬出品的简约风`Todo`管理软件, `Win10`、`iPhone`、`安卓`无缝同步, 享受被计划支配的感觉吧 | [Download](./software/microsoftToDo) |
 
 ## 如何下载?
 
