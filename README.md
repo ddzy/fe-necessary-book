@@ -1,6 +1,6 @@
 # fe-necessary-book
 
-前端开发者必读的精品pdf集合(小声逼逼: 附精品[开发工具](#i-software))
+前端开发者必读的精品pdf集合(小声逼逼: 附精品[开发工具](#开发工具))
 
 ## 前言
 
@@ -12,7 +12,18 @@
 
 ## 目录
 
-### a. healthy
+- [码农长寿指南](#Healthy)
+- [HTTP](#HTTP)
+- [JS](#JS)
+- [CSS](#CSS)
+- [Node](#Node)
+- [Database](#Database)
+- [第三方JS类库](#第三方JS类库)
+- [计算机原理](#计算机原理)
+- [大厂前端博客](#大厂前端博客)
+- [开发工具](#开发工具)
+
+## Healthy
 
 | Name                                | Link                                                                 |
 | ----------------------------------- | -------------------------------------------------------------------- |
@@ -25,20 +36,14 @@
 | 心理强大之路                        | [Download](./packages/healthy/心理强大之路)                          |
 | 活着                                | [Download](./packages/healthy/活着)                                  |
 
-### b. HTTP
+## HTTP
 
 | Name         | Link                                     |
 | ------------ | ---------------------------------------- |
 | HTTP权威指南 | [Download](./packages/http/HTTP权威指南) |
 | 图解HTTP     | [Download](./packages/http/图解HTTP)     |
 
-### c. 计算机原理
-
-| Name                               | Link                                                              |
-| ---------------------------------- | ----------------------------------------------------------------- |
-| 计算机的本质: 深入剖析程序和计算机 | [Download](./packages/computer/计算机的本质_深入剖析程序和计算机) |
-
-### d. JS
+## JS
 
 | Name                         | Link                                                   |
 | ---------------------------- | ------------------------------------------------------ |
@@ -55,20 +60,14 @@
 | JavaScript设计模式与开发实践 | [Download](./packages/js/JavaScript设计模式与开发实践) |
 | JAVASCRIPT语言精髓与编程实践 | [Download](./packages/js/JAVASCRIPT语言精髓与编程实践) |
 
-### e. 第三方JS类库
-
-| Name         | Link                                   |
-| ------------ | -------------------------------------- |
-| 深入浅出Rxjs | [Download](./packages/js/深入浅出Rxjs) |
-
-### f. CSS
+## CSS
 
 | Name         | Link                                    |
 | ------------ | --------------------------------------- |
 | CSS揭秘      | [Download](./packages/css/CSS揭秘)      |
 | CSS3权威指南 | [Download](./packages/css/CSS3权威指南) |
 
-### g. Node
+## Node
 
 | Name                           | Link                                                       |
 | ------------------------------ | ---------------------------------------------------------- |
@@ -76,13 +75,42 @@
 | Node.js实战                    | [Download](./packages/node/Node.js实战)                    |
 | 一个全栈增长工程师的练手项目集 | [Download](./packages/node/一个全栈增长工程师的练手项目集) |
 
-### h. Database
+## Database
 
 | Name            | Link                                            |
 | --------------- | ----------------------------------------------- |
 | 深入学习MongoDB | [Download](./packages/database/深入学习MongoDB) |
 
-### i. Software
+## 第三方JS类库
+
+| Name         | Link                                   |
+| ------------ | -------------------------------------- |
+| 深入浅出Rxjs | [Download](./packages/js/深入浅出Rxjs) |
+
+## 计算机原理
+
+| Name                               | Link                                                              |
+| ---------------------------------- | ----------------------------------------------------------------- |
+| 计算机的本质: 深入剖析程序和计算机 | [Download](./packages/computer/计算机的本质_深入剖析程序和计算机) |
+
+## 大厂前端博客
+
+| Name                           | Link                                       |
+| ------------------------------ | ------------------------------------------ |
+| 淘宝前端团队(`TaobaoFED`)      | [链接](http://taobaofed.org/)              |
+| 百度云技术团队(`FEX`)          | [链接](https://fex.baidu.com/)             |
+| 百度用户体验中心(`MUX`)        | [链接](http://mux.baidu.com/)              |
+| 百度(`EFE`)                    | [链接](https://efe.baidu.com/)             |
+| 百度(`EUX`)                    | [链接](http://eux.baidu.com/)              |
+| 腾讯全端团队(`AlloyTeam`)      | [链接](http://www.alloyteam.com/)          |
+| 360前端团队(`奇舞团`)          | [链接](https://75team.com/)                |
+| 凹凸实验室                     | [链接](https://aotu.io/)                   |
+| 去哪儿网大前端技术中心(`YMFE`) | [链接](https://ymfe.org/)                  |
+| 京东设计中心(`JDC`)            | [链接](http://jdc.jd.com/)                 |
+| 饿了么前端                     | [链接](https://zhuanlan.zhihu.com/ElemeFE) |
+| 携程设计委员会(`CDC`)          | [链接](http://ued.ctrip.com/)              |
+
+## 开发工具
 
 | Name            | Description                                                                               | Link                                 |
 | --------------- | ----------------------------------------------------------------------------------------- | ------------------------------------ |
