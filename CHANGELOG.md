@@ -51,3 +51,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 #### Added
 
 - 新增`software/wireshark`抓包工具
+
+## [2019-5-27]
+
+#### Changed
+
+- 重构`README.md`
+  - 更改原`目录`区块为`列表导航`
+  - 移除`详情`区块
