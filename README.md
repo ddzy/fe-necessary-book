@@ -103,6 +103,7 @@
 | 百度(`EFE`)                    | [链接](https://efe.baidu.com/)             |
 | 百度(`EUX`)                    | [链接](http://eux.baidu.com/)              |
 | 腾讯全端团队(`AlloyTeam`)      | [链接](http://www.alloyteam.com/)          |
+| 腾讯IMWeb前端团队(`IMWeb`)     | [链接](https://imweb.io/)                  |
 | 360前端团队(`奇舞团`)          | [链接](https://75team.com/)                |
 | 凹凸实验室                     | [链接](https://aotu.io/)                   |
 | 去哪儿网大前端技术中心(`YMFE`) | [链接](https://ymfe.org/)                  |
