@@ -59,3 +59,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 - 重构`README.md`
   - 更改原`目录`区块为`列表导航`
   - 移除`详情`区块
+
+## [2019-6-1]
+
+#### Added
+
+- `大厂前端博客`下新增腾讯`IMWeb`前端团队
