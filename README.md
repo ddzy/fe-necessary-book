@@ -105,7 +105,7 @@
 | 腾讯全端团队(`AlloyTeam`)      | [链接](http://www.alloyteam.com/)          |
 | 腾讯IMWeb前端团队(`IMWeb`)     | [链接](https://imweb.io/)                  |
 | 360前端团队(`奇舞团`)          | [链接](https://75team.com/)                |
-| 凹凸实验室                     | [链接](https://aotu.io/)                   |
+| 凹凸实验室(`Aotu`)             | [链接](https://aotu.io/)                   |
 | 去哪儿网大前端技术中心(`YMFE`) | [链接](https://ymfe.org/)                  |
 | 京东设计中心(`JDC`)            | [链接](http://jdc.jd.com/)                 |
 | 饿了么前端                     | [链接](https://zhuanlan.zhihu.com/ElemeFE) |
