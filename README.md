@@ -108,7 +108,7 @@
 | 凹凸实验室(`Aotu`)             | [链接](https://aotu.io/)                   |
 | 去哪儿网大前端技术中心(`YMFE`) | [链接](https://ymfe.org/)                  |
 | 京东设计中心(`JDC`)            | [链接](http://jdc.jd.com/)                 |
-| 饿了么前端                     | [链接](https://zhuanlan.zhihu.com/ElemeFE) |
+| 饿了么前端(`ElemeFE`)          | [链接](https://zhuanlan.zhihu.com/ElemeFE) |
 | 携程设计委员会(`CDC`)          | [链接](http://ued.ctrip.com/)              |
 
 ## 开发工具
