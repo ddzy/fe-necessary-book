@@ -65,3 +65,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 #### Added
 
 - `大厂前端博客`下新增腾讯`IMWeb`前端团队
+
+## [2019-6-3]
+
+### Marked
+
+- 突破`200`star🖊
+
+### Changed
+
+- license协议更改, 原`MIT`更换为`Apache`
