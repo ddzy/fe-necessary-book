@@ -124,7 +124,7 @@
 
 ## 如何下载?
 
-![如何下载](./static/images/how_to_install.png)
+![如何下载](./static/images/1_how_to_install.png)
 
 ## CHANGELOG
 
@@ -132,4 +132,4 @@
 
 ## LICENSE
 
-@see: [MIT](./LICENSE)
+@see: [Apache License](./LICENSE)
