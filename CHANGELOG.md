@@ -78,6 +78,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [2019-6-6]
 
+### Marked
+
+- 突破`300`star💎
+
 ### Added
 
 - 新增书籍`healthy/7天改善睡眠-深睡眠`
