@@ -25,16 +25,17 @@
 
 ## Healthy
 
-| Name                                | Link                                                                 |
-| ----------------------------------- | -------------------------------------------------------------------- |
-| 码农脱单秘笈                        | [Download](./packages/healthy/脱单秘笈)                              |
-| 超负荷的大脑-信息过载与工作记忆极限 | [Download](./packages/healthy/超负荷的大脑-信息过载与工作记忆的极限) |
-| 临床诊疗指南-眼科学                 | [Download](./packages/healthy/临床诊疗指南-眼科学)                   |
-| 防脱发指南                          | [Download](./packages/healthy/防脱发指南)                            |
-| 颈椎康复指南                        | [Download](./packages/healthy/颈椎康复指南)                          |
-| 啤酒肚科学减脂                      | [Download](./packages/healthy/啤酒肚科学减脂)                        |
-| 心理强大之路                        | [Download](./packages/healthy/心理强大之路)                          |
-| 活着                                | [Download](./packages/healthy/活着)                                  |
+| Name                                | Description                                                                 | Link                                                                 |
+| ----------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| 码农脱单秘笈                        | 此时, 一位`单身贵族`偷偷路过                                                | [Download](./packages/healthy/脱单秘笈)                              |
+| 超负荷的大脑-信息过载与工作记忆极限 | 我为什么没法集中精神? 记忆力真的能被`训练`得更好吗? 我怎样才能更专注?       | [Download](./packages/healthy/超负荷的大脑-信息过载与工作记忆的极限) |
+| 临床诊疗指南-眼科学                 | 眼镜度数又深了?                                                             | [Download](./packages/healthy/临床诊疗指南-眼科学)                   |
+| 防脱发指南                          | 脱发似乎困扰着`大龄码农`们, 那么什么是什么原因导致的这些问题? 该如何去应对? | [Download](./packages/healthy/防脱发指南)                            |
+| 颈椎康复指南                        | 得了`职业病`就要放弃职业吗?                                                 | [Download](./packages/healthy/颈椎康复指南)                          |
+| 7天改善睡眠-深睡眠                  | 好好睡一觉.                                                                 | [Download](./packages/healthy/7天改善睡眠-深睡眠)                    |
+| 啤酒肚科学减脂                      | 又`怀孕`了?                                                                 | [Download](./packages/healthy/啤酒肚科学减脂)                        |
+| 心理强大之路                        | `程序员`和`产品经理`的爱恨交织.                                             | [Download](./packages/healthy/心理强大之路)                          |
+| 活着                                | 我的`人生`在何处?                                                           | [Download](./packages/healthy/活着)                                  |
 
 ## HTTP
 
