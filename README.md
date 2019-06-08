@@ -13,6 +13,7 @@
 ## 目录
 
 - [码农长寿指南](#Healthy)
+- [码农交友社区](#Community)
 - [HTTP](#HTTP)
 - [JS](#JS)
 - [CSS](#CSS)
@@ -36,6 +37,18 @@
 | 啤酒肚科学减脂                      | 又`怀孕`了?                                                                 | [Download](./packages/healthy/啤酒肚科学减脂)                        |
 | 心理强大之路                        | `程序员`和`产品经理`的爱恨交织.                                             | [Download](./packages/healthy/心理强大之路)                          |
 | 活着                                | 我的`人生`在何处?                                                           | [Download](./packages/healthy/活着)                                  |
+## Community
+
+| Name       | Description                                    | Link                               |
+| ---------- | ---------------------------------------------- | ---------------------------------- |
+| Github     | 世界最大的`代码托管`平台                       | [链接](https://github.com)         |
+| V2EX       | 一个汇集各类`奇妙好玩`的话题和`流行动向`的网站 | [链接](https://www.v2ex.com/)      |
+| 掘金       | 一个帮助`开发者`成长的社区                     | [链接](https://juejin.im/timeline) |
+| 思否       | 开发者`问答`社区, 堪称国内的`Stack Overflow`   | [链接](https://segmentfault.com/)  |
+| 开发者头条 | 码农们的`知识库`                               | [链接](https://toutiao.io/)        |
+| 51CTO      | 用`技术`成就梦想                               | [链接](http://www.51cto.com/)      |
+| 知乎       | 与世界分享你刚编的故事, 不过`码农`还是挺多的   | [链接](https://www.zhihu.com/)     |
+| 哔哩哔哩   | 🐓你太美, 挺多隐藏的`IT`大佬, 偶尔可以看看     | [链接](https://www.bilibili.com/)  |
 
 ## HTTP
 
