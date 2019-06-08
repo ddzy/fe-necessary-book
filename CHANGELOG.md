@@ -90,3 +90,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - 调整`healthy`区块下每本书籍的`README.md`, 增加`前言`说明
 - 首页`README`同上做修改
+
+## [2019-6-8]
+
+### Added
+
+- 新增`Community`区块
+  - 介绍一些`码农`们的聚集区域
