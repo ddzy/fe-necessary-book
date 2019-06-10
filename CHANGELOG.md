@@ -97,3 +97,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - 新增`Community`区块
   - 介绍一些`码农`们的聚集区域
+
+## [2019-6-10]
+
+### Added
+
+- `大厂前端博客`区块下新增
+  - 阿里语雀`TXD`
+  - 腾讯用户研究与体验设计部`CDC`

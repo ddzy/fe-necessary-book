@@ -109,21 +109,23 @@
 
 ## 大厂前端博客
 
-| Name                           | Link                                       |
-| ------------------------------ | ------------------------------------------ |
-| 淘宝前端团队(`TaobaoFED`)      | [链接](http://taobaofed.org/)              |
-| 百度云技术团队(`FEX`)          | [链接](https://fex.baidu.com/)             |
-| 百度用户体验中心(`MUX`)        | [链接](http://mux.baidu.com/)              |
-| 百度(`EFE`)                    | [链接](https://efe.baidu.com/)             |
-| 百度(`EUX`)                    | [链接](http://eux.baidu.com/)              |
-| 腾讯全端团队(`AlloyTeam`)      | [链接](http://www.alloyteam.com/)          |
-| 腾讯IMWeb前端团队(`IMWeb`)     | [链接](https://imweb.io/)                  |
-| 360前端团队(`奇舞团`)          | [链接](https://75team.com/)                |
-| 凹凸实验室(`Aotu`)             | [链接](https://aotu.io/)                   |
-| 去哪儿网大前端技术中心(`YMFE`) | [链接](https://ymfe.org/)                  |
-| 京东设计中心(`JDC`)            | [链接](http://jdc.jd.com/)                 |
-| 饿了么前端(`ElemeFE`)          | [链接](https://zhuanlan.zhihu.com/ElemeFE) |
-| 携程设计委员会(`CDC`)          | [链接](http://ued.ctrip.com/)              |
+| Name                            | Link                                       |
+| ------------------------------- | ------------------------------------------ |
+| 阿里淘宝前端团队(`TaobaoFED`)   | [链接](http://taobaofed.org/)              |
+| 阿里语雀数据可视化团队(`TXD`)   | [链接](https://txd.alibaba-inc.com/)       |
+| 百度云技术团队(`FEX`)           | [链接](https://fex.baidu.com/)             |
+| 百度用户体验中心(`MUX`)         | [链接](http://mux.baidu.com/)              |
+| 百度(`EFE`)                     | [链接](https://efe.baidu.com/)             |
+| 百度(`EUX`)                     | [链接](http://eux.baidu.com/)              |
+| 腾讯全端团队(`AlloyTeam`)       | [链接](http://www.alloyteam.com/)          |
+| 腾讯IMWeb前端团队(`IMWeb`)      | [链接](https://imweb.io/)                  |
+| 腾讯用户研究与体验设计部(`CDC`) | [链接](https://cdc.tencent.com/)           |
+| 360前端团队(`奇舞团`)           | [链接](https://75team.com/)                |
+| 凹凸实验室(`Aotu`)              | [链接](https://aotu.io/)                   |
+| 去哪儿网大前端技术中心(`YMFE`)  | [链接](https://ymfe.org/)                  |
+| 京东设计中心(`JDC`)             | [链接](http://jdc.jd.com/)                 |
+| 饿了么前端(`ElemeFE`)           | [链接](https://zhuanlan.zhihu.com/ElemeFE) |
+| 携程设计委员会(`CDC`)           | [链接](http://ued.ctrip.com/)              |
 
 ## 开发工具
 
