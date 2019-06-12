@@ -108,6 +108,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [2019-6-12]
 
+### Marked
+
+- 突破`400`star✨
+
 ### Added
 
 - 首页`README.md`新增`如何贡献`区块
