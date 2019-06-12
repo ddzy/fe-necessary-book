@@ -87,6 +87,7 @@
 
 | Name                           | Link                                                       |
 | ------------------------------ | ---------------------------------------------------------- |
+| 深入浅出Node.js                | [Download](./packages/node/深入浅出Node.js)                |
 | Node.js开发指南                | [Download](./packages/node/Node.js开发指南)                |
 | Node.js实战                    | [Download](./packages/node/Node.js实战)                    |
 | 一个全栈增长工程师的练手项目集 | [Download](./packages/node/一个全栈增长工程师的练手项目集) |
