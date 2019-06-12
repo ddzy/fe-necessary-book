@@ -8,7 +8,9 @@
 
 些许资源以链接形式给出, **pdf**大多数为网上搜集而来, 少许部分为自行创作.
 
-如果侵犯到作者的利益, 请联系我删除(`WeChat: dzy13538391627`).
+知识是没有国界的, 当然, 如果你有能力的话, 请支持一波正版!
+
+如果你有更好的`前端`书籍, 欢迎[贡献](#如何贡献?)!
 
 ## 目录
 
@@ -85,6 +87,7 @@
 
 | Name                           | Link                                                       |
 | ------------------------------ | ---------------------------------------------------------- |
+| 深入浅出Node.js                | [Download](./packages/node/深入浅出Node.js)                |
 | Node.js开发指南                | [Download](./packages/node/Node.js开发指南)                |
 | Node.js实战                    | [Download](./packages/node/Node.js实战)                    |
 | 一个全栈增长工程师的练手项目集 | [Download](./packages/node/一个全栈增长工程师的练手项目集) |
@@ -137,6 +140,13 @@
 | MacType         | 字体渲染器, 让你的`Win`具有和`Mac`聘美的字体显示效果                                      | [Download](./software/macType)       |
 | Microsoft To-Do | 巨硬出品的简约风`Todo`管理软件, `Win10`、`iPhone`、`安卓`无缝同步, 享受被计划支配的感觉吧 | [Download](./software/microsoftToDo) |
 | Wireshark       | web开发者必备的`抓包`工具                                                                 | [Download](./software/wireshark)     |
+
+## 如何贡献?
+
+有两种方式可以参与贡献:
+
+- `fork`仓库, 并提起`pr`.
+- 在`issue`区留下你中意的`书名`
 
 ## 如何下载?
 
