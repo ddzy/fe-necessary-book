@@ -105,3 +105,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 - `大厂前端博客`区块下新增
   - 阿里语雀`TXD`
   - 腾讯用户研究与体验设计部`CDC`
+
+## [2019-6-12]
+
+### Added
+
+- 首页`README.md`新增`如何贡献`区块
+- 新增书籍`Node/深入浅出Node.js`
