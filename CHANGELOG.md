@@ -123,7 +123,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - 某些PDF版块增加`作者`和`导读`区块
 
-## [2019-6-14]
+## [2019-6-16]
 
 ### Added
 
