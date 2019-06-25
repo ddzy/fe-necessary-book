@@ -138,7 +138,7 @@
 | VS Code         | 四种不同类型的vscode(`已绝版`)                                                                                                 | [Download](./software/vscode)         |
 | CentBrowser     | Win10下Chrome的完美替代品, `内置手势`和支持`关闭DirectWrite`                                                                   | [Download](./software/centBrowser)    |
 | MacType         | 字体渲染器, 让你的`Win`具有和`Mac`聘美的字体显示效果                                                                           | [Download](./software/macType)        |
-| Microsoft To-Do | 巨硬出品的简约风`Todo`管理软件, `Win10`、`iPhone`、`安卓`无缝同步, 享受被计划支配的感觉吧                                      | [Download](./software/microsoftToDo)  |
+| Microsoft To-Do | 巨硬出品的简约风`Todo`管理软件, `全平台`无缝同步, 享受被计划支配的感觉吧                                                       | [Download](./software/microsoftToDo)  |
 | Wireshark       | web开发者必备的`抓包`工具                                                                                                      | [Download](./software/wireshark)      |
 | tSourceCounter  | `代码量`不是衡量一个码农水平的唯一标准, 但一个好的码农必定经过万千的代码洗礼, 这是一款统计`项目代码量`的工具, 支持多种过滤方式 | [Download](./software/tSourceCounter) |
 

@@ -128,3 +128,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Added
 
 - 新增`software/tSourceCounter`代码统计工具
+
+## [2019-6-25]
+
+### Added
+
+- 更新`Microsoft ToDo`相关内容
+  - 增加`Mac`版本的下载说明
