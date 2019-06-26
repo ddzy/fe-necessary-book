@@ -135,3 +135,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - 更新`Microsoft ToDo`相关内容
   - 增加`Mac`版本的下载说明
+
+## [2019-6-26]
+
+### Added
+
+- 码农交友社区(`Community`)下新增`HelloGithub`站点
