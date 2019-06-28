@@ -6,6 +6,8 @@
 
 > 书不在多, 读了才灵
 
+**2019/6/28更新:** 项目被[@HelloGithub](https://github.com/521xueweihan/HelloGitHub)团队收录, 发布于其[39](https://hellogithub.com/periodical/volume/39/#fe-necessary-book)期月刊.
+
 些许资源以链接形式给出, **pdf**大多数为网上搜集而来, 少许部分为自行创作.
 
 知识是没有国界的. 当然, 如果你有能力的话, 请支持一波正版!

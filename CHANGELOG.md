@@ -141,3 +141,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Added
 
 - 码农交友社区(`Community`)下新增`HelloGithub`站点
+
+## [2019-6-28]
+
+### Marked
+
+- 项目被[HelloGithub](https://github.com/521xueweihan/HelloGitHub/issues/602)团队收录, 发布于其[39](https://hellogithub.com/periodical/volume/39/#fe-necessary-book)期月刊
