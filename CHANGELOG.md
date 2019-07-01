@@ -147,3 +147,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Marked
 
 - 项目被[HelloGithub](https://github.com/521xueweihan/HelloGitHub/issues/602)团队收录, 发布于其[39](https://hellogithub.com/periodical/volume/39/#fe-necessary-book)期月刊
+
+## [2019-7-1]
+
+### Marked
+
+- 突破`500`star✨
