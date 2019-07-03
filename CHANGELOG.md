@@ -153,3 +153,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Marked
 
 - 突破`500`star✨
+
+## [2019-7-3]
+
+### Added
+
+- `Community`区块下新增技术交流站点——`InfoQ`
