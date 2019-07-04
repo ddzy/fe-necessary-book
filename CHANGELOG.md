@@ -159,3 +159,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Added
 
 - `Community`区块下新增技术交流站点——`InfoQ`
+
+## [2019-7-4]
+
+### Added
+
+- 新增`.gitattributes`文件, 自定义`repo`语言类型
