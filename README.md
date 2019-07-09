@@ -86,6 +86,7 @@
 | ------------ | --------------------------------------- |
 | CSS揭秘      | [Download](./packages/css/CSS揭秘)      |
 | CSS3权威指南 | [Download](./packages/css/CSS3权威指南) |
+| SVG精髓      | [Download](./packages/css/SVG精髓)      |
 
 ## Node
 
