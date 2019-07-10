@@ -177,3 +177,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - changelog
   - 所有小标题增加`emoji`前缀
+
+## ✍ [2019-7-10]
+
+### Marked
+
+- 600✨
