@@ -21,6 +21,7 @@
 - [HTTP](#HTTP)
 - [JS](#JS)
 - [CSS](#CSS)
+- [Canvas](#Canvas)
 - [Node](#Node)
 - [Database](#Database)
 - [第三方JS类库](#第三方JS类库)
@@ -87,6 +88,12 @@
 | CSS揭秘      | [Download](./packages/css/CSS揭秘)      |
 | CSS3权威指南 | [Download](./packages/css/CSS3权威指南) |
 | SVG精髓      | [Download](./packages/css/SVG精髓)      |
+
+## Canvas
+
+| Name           | Link                                         |
+| -------------- | -------------------------------------------- |
+| canvas核心技术 | [Download](./packages/canvas/canvas核心技术) |
 
 ## Node
 
