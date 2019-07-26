@@ -190,3 +190,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - 新增`Canvas`区块
   - 新增书籍[canvas核心技术](./packages/canvas/canvas核心技术)
+
+## ✍ [2019-7-27]
+
+### Marked
+
+- 700✨
