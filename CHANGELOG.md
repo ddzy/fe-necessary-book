@@ -196,3 +196,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Marked
 
 - 700✨
+
+## ✍ [2019-8-5]
+
+### Added
+
+- 新增`国外优质博客社区`区块
+  - 新增站点`css-tricks`
