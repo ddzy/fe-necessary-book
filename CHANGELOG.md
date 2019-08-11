@@ -203,3 +203,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - 新增`国外优质博客社区`区块
   - 新增站点`css-tricks`
+
+## ✍ [2019-8-11]
+
+### Added
+
+- 国外优质博客社区
+  - 新增站点[frontendfront](https://frontendfront.com)
