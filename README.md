@@ -145,9 +145,10 @@
 
 ## 国外优质博客社区
 
-| Name       | Link                           |
-| ---------- | ------------------------------ |
-| css-tricks | [链接](https://css-tricks.com) |
+| Name          | Link                               |
+| ------------- | ---------------------------------- |
+| css-tricks    | [链接](https://css-tricks.com)     |
+| frontendfront | [链接](https://frontendfront.com/) |
 
 ## 开发工具
 
