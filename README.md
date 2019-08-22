@@ -142,6 +142,7 @@
 | 京东设计中心(`JDC`)             | [链接](http://jdc.jd.com/)                 |
 | 饿了么前端(`ElemeFE`)           | [链接](https://zhuanlan.zhihu.com/ElemeFE) |
 | 携程设计委员会(`CDC`)           | [链接](http://ued.ctrip.com/)              |
+| 字节跳动技术博客(`Tech Blog`)   | [链接](https://techblog.toutiao.com/)      |
 
 ## 国外优质博客社区
 
