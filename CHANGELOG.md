@@ -210,3 +210,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - 国外优质博客社区
   - 新增站点[frontendfront](https://frontendfront.com)
+
+## ✍ [2019-8-22]
+
+### Marked
+
+- 800💥
+
+### Added
+
+- 大厂前端博客
+  - 新增站点[Tech Blog](https://techblog.toutiao.com/)
