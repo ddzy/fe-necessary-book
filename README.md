@@ -28,6 +28,7 @@
 - [计算机原理](#计算机原理)
 - [大厂前端博客](#大厂前端博客)
 - [国外优质博客社区](#国外优质博客社区)
+- [大佬博客集锦](#%e5%a4%a7%e4%bd%ac%e5%8d%9a%e5%ae%a2%e9%9b%86%e9%94%a6)
 - [开发工具](#开发工具)
 
 ## Healthy
@@ -150,6 +151,16 @@
 | ------------- | ---------------------------------- |
 | css-tricks    | [链接](https://css-tricks.com)     |
 | frontendfront | [链接](https://frontendfront.com/) |
+
+## 大佬博客集锦
+
+| Name              | Description                      | Link                                         |
+| ----------------- | -------------------------------- | -------------------------------------------- |
+| berwin/Blog       | 记录成长的过程                   | [链接](https://github.com/berwin/Blog)       |
+| Pines-Cheng/blog  | 技术博客                         | [链接](https://github.com/Pines-Cheng/blog)  |
+| brickspert/blog   | 个人技术博客, 博文写在 issues 里 | [链接](https://github.com/brickspert/blog)   |
+| youngwind/blog    | 梁少峰的个人博客                 | [链接](https://github.com/youngwind/blog)    |
+| amandakelake/blog | think more! learn more!          | [链接](https://github.com/amandakelake/blog) |
 
 ## 开发工具
 
