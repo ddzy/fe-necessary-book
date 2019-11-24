@@ -221,3 +221,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - 大厂前端博客
   - 新增站点[Tech Blog](https://techblog.toutiao.com/)
+
+## ✍ [2019-11-24]
+
+### Added
+
+- 新增 `大佬博客集锦` 区块
+
+### Marked
+
+- 900💥
