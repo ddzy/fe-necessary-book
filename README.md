@@ -1,18 +1,18 @@
 # fe-necessary-book
 
-前端开发者必读的精品pdf集合(小声逼逼: 附精品[开发工具](#开发工具))
+前端开发者必读的精品pdf集合(小声逼逼: 附精品 [开发工具](#开发工具))
 
 ## 前言
 
 > 书不在多, 读了才灵
 
-**2019/6/28更新:** 项目被[@HelloGithub](https://github.com/521xueweihan/HelloGitHub)团队收录, 发布于其[39](https://hellogithub.com/periodical/volume/39/#fe-necessary-book)期月刊.
+**2019/6/28更新:** 项目被 [@HelloGithub](https://github.com/521xueweihan/HelloGitHub) 团队收录, 发布于其 [39](https://hellogithub.com/periodical/volume/39/#fe-necessary-book) 期月刊.
 
-些许资源以链接形式给出, **pdf**大多数为网上搜集而来, 少许部分为自行创作.
+些许资源以链接形式给出, **pdf** 大多数为网上搜集而来, 少许部分为自行创作.
 
 知识是没有国界的. 当然, 如果你有能力的话, 请支持一波正版!
 
-如果你有更好的`前端`书籍, 欢迎[贡献](#如何贡献)!
+如果你有更好的`前端`书籍, 欢迎 [贡献](#如何贡献)!
 
 ## 目录
 
@@ -58,6 +58,7 @@
 | 知乎        | 与世界分享你刚编的故事, 不过`码农`还是挺多的                                                                                                                                                                          | [链接](https://www.zhihu.com/)               |
 | 哔哩哔哩    | 🐓你太美, 挺多隐藏的`IT`大佬, 偶尔可以看看                                                                                                                                                                            | [链接](https://www.bilibili.com/)            |
 | InfoQ       | 在线`新闻`/`社区`网站，旨在通过促进`软件开发`领域知识与创新的传播，为`软件开发者`提供帮助                                                                                                                             | [链接](https://www.infoq.cn/topic/Front-end) |
+| Gitchat     | 基于微信的知识、课程分享平台                                                                                                                                                                                          | [链接](https://gitbook.cn/)                  |
 
 ## HTTP
 
