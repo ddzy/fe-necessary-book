@@ -231,3 +231,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Marked
 
 - 900💥
+
+## ✍ [2019-12-12]
+
+### Added
+
+- 程序员交友社区下新增: `Gitchat`
+
+### Changed
+
+- 改进文档的格式
