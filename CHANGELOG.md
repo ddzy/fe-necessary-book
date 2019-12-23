@@ -241,3 +241,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Changed
 
 - 改进文档的格式
+
+## ✍ [2019-12-23]
+
+### Added
+
+- [国外优质博客社区](https://github.com/ddzy/fe-necessary-book#国外优质博客社区) 模块下新增 [medium](https://medium.com/) 站点
