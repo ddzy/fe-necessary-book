@@ -38,7 +38,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ### Changed
 
-- 使用新的PDF替换原`healthy/颈椎康复指南.pdf`
+- 使用新的 PDF 替换原`healthy/颈椎康复指南.pdf`
 
 ## ✍ [2019-5-22]
 
@@ -74,7 +74,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ### Changed
 
-- license协议更改, 原`MIT`更换为`Apache`
+- license 协议更改, 原`MIT`更换为`Apache`
 
 ## ✍ [2019-6-6]
 
@@ -121,7 +121,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ### Added
 
-- 某些PDF版块增加`作者`和`导读`区块
+- 某些 PDF 版块增加`作者`和`导读`区块
 
 ## ✍ [2019-6-16]
 
@@ -189,7 +189,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Added
 
 - 新增`Canvas`区块
-  - 新增书籍[canvas核心技术](./packages/canvas/canvas核心技术)
+  - 新增书籍[canvas 核心技术](./packages/canvas/canvas核心技术)
 
 ## ✍ [2019-7-27]
 
@@ -247,3 +247,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Added
 
 - [国外优质博客社区](https://github.com/ddzy/fe-necessary-book#国外优质博客社区) 模块下新增 [medium](https://medium.com/) 站点
+
+## ✍ [2020-1-5]
+
+### Added
+
+- 新增 [国内优质文章](https://github.com/ddzy/fe-necessary-book#国内优质文章) 区块
