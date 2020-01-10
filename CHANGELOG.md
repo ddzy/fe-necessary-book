@@ -253,3 +253,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Added
 
 - 新增 [国内优质文章](https://github.com/ddzy/fe-necessary-book#国内优质文章) 区块
+
+## ✍ [2020-1-10]
+
+### Added
+
+- 大佬博客集锦区块下新增: [马云云在 Github 的学习片段](https://github.com/markyun/My-blog)
