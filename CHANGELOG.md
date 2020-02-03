@@ -259,3 +259,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Added
 
 - 大佬博客集锦区块下新增: [马云云在 Github 的学习片段](https://github.com/markyun/My-blog)
+
+## ✍ [2020-2-3]
+
+### Added
+
+- 国内优质文章区块下新增: [我对 React v16.4 生命周期的理解](https://juejin.im/post/5b6f1800f265da282d45a79a)
