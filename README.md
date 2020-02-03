@@ -175,6 +175,10 @@
 
 - [彻底搞懂 CSS 层叠上下文、层叠等级、层叠顺序、z-index](https://juejin.im/post/5b876f86518825431079ddd6)
 
+### react 好文
+
+- [我对 React v16.4 生命周期的理解](https://juejin.im/post/5b6f1800f265da282d45a79a)
+
 ### 浏览器好文
 
 - [原来 CSS 与 JS 是这样阻塞 DOM 解析和渲染的](https://juejin.im/post/59c60691518825396f4f71a1)
