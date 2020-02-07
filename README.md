@@ -183,6 +183,10 @@
 
 - [原来 CSS 与 JS 是这样阻塞 DOM 解析和渲染的](https://juejin.im/post/59c60691518825396f4f71a1)
 
+### 算法好文
+
+- [十大经典排序算法总结(JavaScript描述)](https://juejin.im/post/57dcd394a22b9d00610c5ec8)
+
 </details>
 
 ## 开发工具
