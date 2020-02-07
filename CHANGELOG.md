@@ -265,3 +265,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Added
 
 - 国内优质文章区块下新增: [我对 React v16.4 生命周期的理解](https://juejin.im/post/5b6f1800f265da282d45a79a)
+
+## ✍ [2020-2-7]
+
+### Added
+
+- 国内优质文章区块下新增: [十大经典排序算法总结(JavaScript描述)](https://juejin.im/post/57dcd394a22b9d00610c5ec8)
