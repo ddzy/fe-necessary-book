@@ -270,4 +270,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ### Added
 
-- 国内优质文章区块下新增: [十大经典排序算法总结(JavaScript描述)](https://juejin.im/post/57dcd394a22b9d00610c5ec8)
+- 国内优质文章区块下新增: [十大经典排序算法总结(JavaScript 描述)](https://juejin.im/post/57dcd394a22b9d00610c5ec8)
+
+## ✍ [2020-2-29]
+
+### Added
+
+- 国内优质文章区块下新增
+  - [灵活运用 CSS 开发技巧](https://juejin.im/post/5d4d0ec651882549594e7293)
+  - [携程前端模拟排序动画](https://juejin.im/post/5b8fcaaee51d450e44378a5f)

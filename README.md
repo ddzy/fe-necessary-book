@@ -174,6 +174,8 @@
 ### css 好文
 
 - [彻底搞懂 CSS 层叠上下文、层叠等级、层叠顺序、z-index](https://juejin.im/post/5b876f86518825431079ddd6)
+- [灵活运用 CSS 开发技巧](https://juejin.im/post/5d4d0ec651882549594e7293)
+- [携程前端模拟排序动画](https://juejin.im/post/5b8fcaaee51d450e44378a5f)
 
 ### react 好文
 
