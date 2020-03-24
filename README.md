@@ -171,6 +171,10 @@
 
 <details>
 
+### 移动端开发
+
+- [总结移动端 H5 开发常用技巧(干货满满哦!)](https://juejin.im/post/5e4a0162f265da57133b2005)
+
 ### css 好文
 
 - [彻底搞懂 CSS 层叠上下文、层叠等级、层叠顺序、z-index](https://juejin.im/post/5b876f86518825431079ddd6)
@@ -187,7 +191,7 @@
 
 ### 算法好文
 
-- [十大经典排序算法总结(JavaScript描述)](https://juejin.im/post/57dcd394a22b9d00610c5ec8)
+- [十大经典排序算法总结(JavaScript 描述)](https://juejin.im/post/57dcd394a22b9d00610c5ec8)
 
 </details>
 
