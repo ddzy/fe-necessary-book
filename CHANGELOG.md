@@ -279,3 +279,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 - 国内优质文章区块下新增
   - [灵活运用 CSS 开发技巧](https://juejin.im/post/5d4d0ec651882549594e7293)
   - [携程前端模拟排序动画](https://juejin.im/post/5b8fcaaee51d450e44378a5f)
+
+## ✍ [2020-3-24]
+
+### Added
+
+- 国内优质文章区块下新增
+  - [总结移动端 H5 开发常用技巧(干货满满哦!)](https://juejin.im/post/5e4a0162f265da57133b2005)
