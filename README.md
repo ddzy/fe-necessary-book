@@ -185,6 +185,10 @@
 
 - [我对 React v16.4 生命周期的理解](https://juejin.im/post/5b6f1800f265da282d45a79a)
 
+### http 好文
+
+- [HTTP ｜ GET 和 POST 区别？网上多数答案都是错的！](http://www.jianshu.com/p/fd67b576365d)
+
 ### 浏览器好文
 
 - [原来 CSS 与 JS 是这样阻塞 DOM 解析和渲染的](https://juejin.im/post/59c60691518825396f4f71a1)

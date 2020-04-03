@@ -286,3 +286,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - 国内优质文章区块下新增
   - [总结移动端 H5 开发常用技巧(干货满满哦!)](https://juejin.im/post/5e4a0162f265da57133b2005)
+
+## ✍ [2020-4-3]
+
+### Added
+
+- 新增 HTTP 好文区块
+  - 新增文章: [HTTP ｜ GET 和 POST 区别？网上多数答案都是错的！](http://www.jianshu.com/p/fd67b576365d)
