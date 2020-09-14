@@ -197,6 +197,10 @@
 
 - [十大经典排序算法总结(JavaScript 描述)](https://juejin.im/post/57dcd394a22b9d00610c5ec8)
 
+### js 好文
+
+- [前端进阶必经之路（一）：1.2w字深入理解JavaScript26个核心概念](https://juejin.im/post/6865184344990810126)
+
 </details>
 
 ## 开发工具
