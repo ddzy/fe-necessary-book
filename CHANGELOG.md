@@ -293,3 +293,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - 新增 HTTP 好文区块
   - 新增文章: [HTTP ｜ GET 和 POST 区别？网上多数答案都是错的！](http://www.jianshu.com/p/fd67b576365d)
+    
+## ✍ [2020-9-14]
+
+- 新增 JS 好文区块
+  - 新增文章: [前端进阶必经之路（一）：1.2w字深入理解JavaScript26个核心概念](https://juejin.im/post/6865184344990810126)
